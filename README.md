@@ -1,2 +1,0 @@
-# angular-sample
-routing, navbar
